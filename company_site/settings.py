@@ -1,6 +1,0 @@
-INSTALLED_APPS = [
-     
-    'main',
-]
-    
-
